@@ -1,0 +1,24 @@
+{
+  "name": "simple-chat-server",
+  "description": "A simple chat server",
+  "version": "1.0.0",
+  "author": "Mihai STOIE <mihaistoie@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "latest",
+    "del": "latest",
+    "gulp": "latest",
+    "gulp-tslint": "latest",
+    "gulp-typescript": "latest",
+    "tslint": "latest",
+    "typescript": "2.x.x"
+  },
+  "dependencies": {
+    "node-typescript-seed": "https://github.com/salviadev/node-typescript-seed.git#master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/salviadev/simple-chat-server"
+  },
+  "scripts": {}
+}
